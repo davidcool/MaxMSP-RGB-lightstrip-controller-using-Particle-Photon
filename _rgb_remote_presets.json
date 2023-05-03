@@ -1,0 +1,37 @@
+{
+	"pattrstorage" : 	{
+		"name" : "interface",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"cur_port" : [ 11111 ],
+					"des_port" : [ 11112 ],
+					"window_visible" : [ 0 ],
+					"window_grow" : [ 0 ],
+					"window_border" : [ 0 ],
+					"window_floating" : [ 0 ],
+					"window_interp" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"cur_port" : [ 11111 ],
+					"des_port" : [ 11112 ],
+					"window_visible" : [ 0 ],
+					"window_grow" : [ 0 ],
+					"window_border" : [ 0 ],
+					"window_floating" : [ 0 ],
+					"window_interp" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
